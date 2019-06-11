@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiADO.NetCrud", "WebApiADO.NetCrud.csproj", "{4105EE7E-7FA6-4AD4-9B67-B1E94EFB61EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4105EE7E-7FA6-4AD4-9B67-B1E94EFB61EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4105EE7E-7FA6-4AD4-9B67-B1E94EFB61EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4105EE7E-7FA6-4AD4-9B67-B1E94EFB61EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4105EE7E-7FA6-4AD4-9B67-B1E94EFB61EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC71D36F-CA4A-4761-8828-136D99D81A59}
+	EndGlobalSection
+EndGlobal
